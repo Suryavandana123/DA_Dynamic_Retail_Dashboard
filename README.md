@@ -78,7 +78,7 @@ The dashboard integrates data from three main tables, all hosted on GitHub:
 4. **Interactivity**:
    - Add slicers for **regions**, **time periods**, or **product categories** so that users can filter data and see dynamic changes in KPIs.
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/6ffa0561-a36a-49fa-8189-9bec57127fb4)
 
 ---
 
@@ -97,6 +97,8 @@ The dashboard integrates data from three main tables, all hosted on GitHub:
 4. **Trend Analysis**:
    - Include a trend line to help identify sales and profit fluctuations, revealing patterns or seasonality.
 
+![image](https://github.com/user-attachments/assets/af26e1cf-dce7-40f6-88e0-3bf306e7ab07)
+
 ---
 
 ### Problem 3: **Category-Wise Profit Analysis**
@@ -110,6 +112,11 @@ The dashboard integrates data from three main tables, all hosted on GitHub:
    
 3. **Visualizing Profit**:
    - Create a **bar chart** or **pie chart** to represent **profit by category**, making it easy to see which categories are the most profitable.
+
+  ![image](https://github.com/user-attachments/assets/c15ab068-767d-47c2-8d7e-3c2e37ddd97d)
+
+
+
 
 ---
 
@@ -125,6 +132,10 @@ The dashboard integrates data from three main tables, all hosted on GitHub:
 
 3. **Visual Representation**:
    - Use a **pie chart** or **stacked bar chart** to represent each segment’s contribution to total sales.
+  
+![image](https://github.com/user-attachments/assets/c30fb024-6a42-4046-84c6-e0c8a1e01d39)
+
+
 
 ---
 
@@ -139,6 +150,9 @@ The dashboard integrates data from three main tables, all hosted on GitHub:
    
 3. **Map Visualization**:
    - If desired, use Excel’s **Map Chart** feature to visualize the sales distribution by country.
+  
+![image](https://github.com/user-attachments/assets/b452e524-bed6-41ee-b041-9afa57144458)
+
 
 ---
 
@@ -154,6 +168,11 @@ The dashboard integrates data from three main tables, all hosted on GitHub:
 3. **Visualizing**:
    - Display the results in a **bar chart** or **column chart** that dynamically updates based on filters.
 
+![image](https://github.com/user-attachments/assets/809b5f67-bf30-4eeb-aea1-6d223fcaaa4e)
+
+
+
+
 ---
 
 ### Problem 7: **Bottom 5 Categories**
@@ -167,6 +186,9 @@ The dashboard integrates data from three main tables, all hosted on GitHub:
 
 3. **Visualizing**:
    - Display the results in a **bar chart** or **column chart** for clear comparison.
+  
+   ![image](https://github.com/user-attachments/assets/c9ee9194-5777-4905-a14a-b0f9222a9622)
+
 
 ---
 
@@ -181,6 +203,9 @@ The dashboard integrates data from three main tables, all hosted on GitHub:
 
 3. **Adding Trend Line**:
    - Optionally, add a **trend line** to the line chart to visually show overall performance trends.
+  
+   ![image](https://github.com/user-attachments/assets/f75f1735-9703-46f7-8f51-c6c008f34487)
+
 
 ---
 
@@ -210,6 +235,9 @@ The data was cleaned and transformed using **Power Query** to ensure consistency
 ## Conclusion
 
 This **Dynamic Retail Dashboard** solves critical business problems through interactive and real-time analysis. By leveraging Excel's advanced features like Power Query, PivotTables, and dynamic charts, this dashboard provides insights into sales, profits, and customer behavior. With future enhancements, the dashboard can be expanded to include further analyses such as **Return Analysis**, **Customer Segmentation**, and **Product Performance**.
+
+
+![image](https://github.com/user-attachments/assets/86a36ade-0c55-4756-8845-37d27026f319)
 
 ---
 
