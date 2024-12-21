@@ -78,7 +78,8 @@ The dashboard integrates data from three main tables, all hosted on GitHub:
 4. **Interactivity**:
    - Add slicers for **regions**, **time periods**, or **product categories** so that users can filter data and see dynamic changes in KPIs.
 
-![image](https://github.com/user-attachments/assets/6ffa0561-a36a-49fa-8189-9bec57127fb4)
+![image](https://github.com/user-attachments/assets/05f6f0f6-8fb4-46f6-9e2c-3c1e19116b19)
+
 
 ---
 
@@ -97,7 +98,8 @@ The dashboard integrates data from three main tables, all hosted on GitHub:
 4. **Trend Analysis**:
    - Include a trend line to help identify sales and profit fluctuations, revealing patterns or seasonality.
 
-![image](https://github.com/user-attachments/assets/af26e1cf-dce7-40f6-88e0-3bf306e7ab07)
+![image](https://github.com/user-attachments/assets/a0f9b66c-9f1e-4718-a07e-d9eae6880164)
+
 
 ---
 
@@ -151,7 +153,8 @@ The dashboard integrates data from three main tables, all hosted on GitHub:
 3. **Map Visualization**:
    - If desired, use Excel’s **Map Chart** feature to visualize the sales distribution by country.
   
-![image](https://github.com/user-attachments/assets/b452e524-bed6-41ee-b041-9afa57144458)
+![image](https://github.com/user-attachments/assets/3a9b9d63-d0f0-42c5-8233-f48f8a77c680)
+
 
 
 ---
@@ -232,12 +235,10 @@ The data was cleaned and transformed using **Power Query** to ensure consistency
 
 ---
 
-## Conclusion
+**Visuals**
+The visualizations within the Dynamic Retail Dashboard are designed to be both informative and interactive, allowing users to easily track key business metrics, analyze trends, and make data-driven decisions. By using a variety of chart types—such as bar charts, pie charts, and line charts—along with dynamic slicers and KPI cards, the dashboard provides a comprehensive view of the retail business, highlighting key areas like sales, profit, and customer segments. The interactivity and dynamic nature of the visuals ensure that users can filter the data based on their specific needs, offering a flexible and powerful tool for analyzing retail performance.
 
-This **Dynamic Retail Dashboard** solves critical business problems through interactive and real-time analysis. By leveraging Excel's advanced features like Power Query, PivotTables, and dynamic charts, this dashboard provides insights into sales, profits, and customer behavior. With future enhancements, the dashboard can be expanded to include further analyses such as **Return Analysis**, **Customer Segmentation**, and **Product Performance**.
-
-
-![image](https://github.com/user-attachments/assets/86a36ade-0c55-4756-8845-37d27026f319)
+![image](https://github.com/user-attachments/assets/bd998798-32c8-41dd-b04a-05a664a9a870)
 
 ---
 
