@@ -171,7 +171,8 @@ The dashboard integrates data from three main tables, all hosted on GitHub:
 3. **Visualizing**:
    - Display the results in a **bar chart** or **column chart** that dynamically updates based on filters.
 
-![image](https://github.com/user-attachments/assets/809b5f67-bf30-4eeb-aea1-6d223fcaaa4e)
+![image](https://github.com/user-attachments/assets/e42d56c2-3e4f-4f9d-95ca-a2e67e36e83d)
+
 
 
 
