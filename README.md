@@ -1,8 +1,4 @@
-# DA_Dynamic_Retail_Dashboard
-Dynamic_Retail_Dashboard_Excel
-Here’s a revised version of the **README** file, now including the sample tables for **Orders**, **Returns**, and **People**. These sample tables should give readers a better understanding of the structure and content of the data used in your dynamic retail dashboard.
 
----
 
 # Dynamic Retail Dashboard
 
@@ -230,5 +226,3 @@ These transformations were necessary to ensure the data was clean, structured, a
 The **Dynamic Retail Dashboard** offers an insightful and dynamic view of the retail business's performance. It combines the power of Excel’s data transformation capabilities with interactive visualizations, enabling users to make data-driven decisions. The dashboard is designed for flexibility, allowing users to explore various aspects of the business through dynamic charts and KPIs. With future enhancements, the dashboard can be further expanded to answer additional business questions and support more detailed analyses.
 
 ---
-
-This version includes the sample data for the **Orders**, **Returns**, and **People** tables, which will help users understand the structure of the data and how it feeds into the dashboard.
